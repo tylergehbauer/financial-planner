@@ -4,12 +4,12 @@ Unit 5 Homework Assignment: API's
 >I completede this assignment over break, so the 'current date' I used was December 31st, 2021.
 The current Eth price and Bitcoin price are probably going to be different the date this is graded since the prices are pretty volatile currently.
 ---
-For this assignment I used MCForecastTools.py to run the monte carlo simulations and for analysis.
+>For this assignment I used MCForecastTools.py to run the monte carlo simulations and for analysis.
 ---
 # Part 1:
 >Part 1 of the assignment involved fetching current prices for Eth and BTC using the requests library and invovled using Alpaca API to fetch the stock and bond closing prices for SKY and AGG.
 
-Creating the data frames, plots, and the required calculations were all very similar to what we did in the class activities. 
+>Creating the data frames, plots, and the required calculations were all very similar to what we did in the class activities. 
 ---
 # Part 2:
 >Part 2 of the assignment involed using the api.get_barset() to create a dataframe of stock and bond data, and using the MCForecastTools.py to run a monte carlo simulation.
