@@ -1,7 +1,7 @@
 # financial-planner
 Unit 5 Homework Assignment: API's
 ----
->I completede this assignment over break, so the 'current date' I used was December 31st, 2021.
+>I completed this assignment over break, so the 'current date' I used was December 31st, 2021.
 The current Eth price and Bitcoin price are probably going to be different the date this is graded since the prices are pretty volatile currently.
 ---
 >For this assignment I used MCForecastTools.py to run the monte carlo simulations and for analysis.
