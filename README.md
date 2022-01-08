@@ -16,10 +16,10 @@ The current Eth price and Bitcoin price are probably going to be different the d
 The parameters (weights,number of simulations, and number of trading days) were as requested in the assignment instrucitons. 
 ---
 # Optional Early Retirement:
->For the 5 year retirement section all I changed for the monte carlo simulation were the weights. I changed it so that SKY was 70% and AGG was 30%
-This resulted in a wrose retirment plan in my opinon than than the one in part 2. 
+>For the 5 year retirement section all I changed for the monte carlo simulation were the weights (I changed it so that SKY was 70% and AGG was 30%) and I increased the intial investment to $60,000. 
+This resulted in a worse retirment plan in my opinon than the plan in part 2. 
 
->For the 10 year retirement plan, I used the same framework for the monte carlo simultion as in part 2, however made the inital investment larger.
+>For the 10 year retirement plan, I used the same framework for the monte carlo simultion as in part 2, however made the inital investment $60,000.
 This resulted in a pretty decent short term retirment plan.
 
 >Overall, this assignment was pretty straight forward since many of the tasks were very similar to what we did in class. 
