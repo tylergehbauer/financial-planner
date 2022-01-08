@@ -12,7 +12,7 @@ The current Eth price and Bitcoin price are probably going to be different the d
 >Creating the data frames, plots, and the required calculations were all very similar to what we did in the class activities. 
 ---
 # Part 2:
->Part 2 of the assignment involed using the api.get_barset() to create a dataframe of stock and bond data, and using the MCForecastTools.py to run a monte carlo simulation.
+>Part 2 of the assignment involved using the api.get_barset() to create a dataframe of stock and bond data, and using the MCForecastTools.py to run a monte carlo simulation.
 The parameters (weights,number of simulations, and number of trading days) were as requested in the assignment instrucitons. 
 ---
 # Optional Early Retirement:
